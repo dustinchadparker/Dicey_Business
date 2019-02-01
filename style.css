@@ -1,0 +1,21 @@
+#die-container {
+    position: relative;
+    display: block;
+}
+
+.dice {
+    cursor: pointer;
+    height: 50px; 
+    width: 50px; 
+    display: inline-block;
+    background-color: white;
+    font-size: 1em; 
+    padding: 1em; 
+    text-align: center;
+    border-style: solid;
+    border-color: pink;
+}
+
+body {
+    background-color: black;
+}
